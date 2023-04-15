@@ -4,4 +4,4 @@ Social media platforms that would be dedicated for children and young Africans t
 * a portal that educates and connect young lads across africa
 *
 
-Problem how do we verify the children?
+- Problem how do we verify the children?
